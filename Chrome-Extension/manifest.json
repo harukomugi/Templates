@@ -2,8 +2,8 @@
     //The 'manifest_version' key must be present and set to 2 always.
     "manifest_version": 2,
     
-    "name": "Komugi's Extension",    // NEW NAME
-    "description": "A template for Chrome extension development.",    // NEW DESCRIPTION
+    "name": "New Chrome Extension",    // NEW NAME
+    "description": "A new Chrome extension",    // NEW DESCRIPTION
     "version": "0.1",    // NEW VERSION
 
     "permissions": [
