@@ -1,4 +1,4 @@
-// Template popup.js
+// FILE : popup.js
 
-
-//chrome.browserAction.setIcon ( { path: 'another-icon.png' } );
+// NEW CODE HERE
+// chrome.browserAction.setIcon ( { path: 'another-icon.png' } );
