@@ -1,0 +1,24 @@
+{
+    //The 'manifest_version' key must be present and set to 2 always.
+    "manifest_version": 2,
+
+    "name": "Komugi's Extension",
+    "description": "A template for Chrome extension development.",
+    "version": "0.1",
+
+    "permissions": [
+        "tabs"
+    ],
+    
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    },
+    
+    "background" : {
+        "scripts": [
+            "background-script.js"
+        ],
+        "persistent": true
+    }
+}
