@@ -1,4 +1,4 @@
-// Template background.js
+// FILE : background.js
 
 // NEW CODE HERE
 // var newtext = 0;
